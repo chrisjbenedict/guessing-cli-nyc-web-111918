@@ -1,4 +1,5 @@
 # Code your solution here!
+# Similar to 'run' method in jukebox.rb
 def run_guessing_game
   user_input = ''
   while user_input
